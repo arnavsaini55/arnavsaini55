@@ -65,15 +65,7 @@
 
 ---
 
-### 💼 Experience
 
-**Founding Mobile Engineer** — SoTrue Technologies Pvt Ltd *(Jul 2025 – Present)*
-Architected a full-stack social-OTT app (video + group chat + social profiles) in React Native CLI & TypeScript, live on Play Store and App Store.
-
-**Frontend Developer Intern** — Code Alpha *(Mar 2024 – Jun 2024)*
-Built responsive web apps and a music streaming platform with REST API integration.
-
----
 
 ### 📌 Featured Projects
 
