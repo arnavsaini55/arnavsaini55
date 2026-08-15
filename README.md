@@ -3,14 +3,17 @@
 </p>
 
 <h1 align="center">Hi, I'm Arnav Saini 👋</h1>
-<h3 align="center"> Mobile Engineer building real-time, production-scale apps on React Native</h3>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/React_Native_Mobile_Engineer-2E9EF7?style=for-the-badge&logo=react&logoColor=white" />
+</p>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2E9EF7&center=true&vCenter=true&width=440&lines=React+Native+%7C+TypeScript+%7C+WebSockets;Shipping+apps+to+500%2B+users;Android+%26+iOS+%7C+Real-time+systems" alt="Typing SVG" />
 </p>
 
 <p align="center">
-  <a href="https://linkedin.com/in/arnavsaini55"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/arnav-saini-2bb90023a/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:arnavsaini.saini123@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" /></a>
   <a href="https://github.com/arnavsaini55"><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" /></a>
 </p>
@@ -52,12 +55,12 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=arnavsaini55&show_icons=true&theme=default&hide_border=true" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arnavsaini55&layout=compact&hide_border=true" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=arnavsaini55&show_icons=true&hide_border=true&title_color=A855F7&icon_color=A855F7&text_color=333333&bg_color=00000000" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arnavsaini55&layout=compact&hide_border=true&title_color=A855F7&text_color=333333&bg_color=00000000" height="165" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=arnavsaini55&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=arnavsaini55&hide_border=true&bg_color=00000000&color=A855F7&line=A855F7&point=A855F7&area=true" width="95%" />
 </p>
 
 ---
