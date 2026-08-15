@@ -52,7 +52,6 @@
 
 ---
 
-### 📊 GitHub Stats
 
 <!-- <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=arnavsaini55&show_icons=true&hide_border=true&title_color=A855F7&icon_color=A855F7&text_color=333333&bg_color=00000000" height="165" />
@@ -65,16 +64,6 @@
 
 ---
 
-
-
-### 📌 Featured Projects
-
-| Project | Description | Stack |
-|---|---|---|
-| **AlgoBuddy** | AI-powered coding assistant with an in-app editor, AI code generation, and Razorpay payments | React Native, Node.js, PostgreSQL, OpenAI API, Firebase |
-| **ZapTasks** | Cross-platform task manager with real-time sync | React Native, Redux Toolkit, Firebase, OpenAI API |
-
----
 
 <p align="center">
   <i>Thanks for stopping by — feel free to explore my repos or reach out! ⭐</i>
