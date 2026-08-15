@@ -2,7 +2,7 @@
   <img src="./profile-banner.gif" width="260" />
 </p>
 
-<h1 align="center">Hi, I'm Arnav Saini 👋</h1>
+<h1 align="center">Hi, I'm Arnav  👋</h1>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Software_Developer-2E9EF7?style=for-the-badge&logo=vercel&logoColor=white" />
@@ -54,14 +54,14 @@
 
 ### 📊 GitHub Stats
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=arnavsaini55&show_icons=true&hide_border=true&title_color=A855F7&icon_color=A855F7&text_color=333333&bg_color=00000000" height="165" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arnavsaini55&layout=compact&hide_border=true&title_color=A855F7&text_color=333333&bg_color=00000000" height="165" />
-</p>
+</p> -->
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://ghchart.rshah.org/A855F7/arnavsaini55" width="95%" />
-</p>
+</p> -->
 
 ---
 
