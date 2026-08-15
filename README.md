@@ -5,11 +5,11 @@
 <h1 align="center">Hi, I'm Arnav Saini 👋</h1>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/React_Native_Mobile_Engineer-2E9EF7?style=for-the-badge&logo=react&logoColor=white" />
+  <img src="https://img.shields.io/badge/Software_Developer-2E9EF7?style=for-the-badge&logo=vercel&logoColor=white" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2E9EF7&center=true&vCenter=true&width=440&lines=React+Native+%7C+TypeScript+%7C+WebSockets;Shipping+apps+to+500%2B+users;Android+%26+iOS+%7C+Real-time+systems" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2E9EF7&center=true&vCenter=true&width=460&lines=Turning+ideas+into+live+products;Shipping+real-time+apps+to+500%2B+users;React+Native+%7C+TypeScript+%7C+WebSockets" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -60,7 +60,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=arnavsaini55&hide_border=true&bg_color=00000000&color=A855F7&line=A855F7&point=A855F7&area=true" width="95%" />
+  <img src="https://ghchart.rshah.org/A855F7/arnavsaini55" width="95%" />
 </p>
 
 ---
