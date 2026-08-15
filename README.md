@@ -1,9 +1,14 @@
 <!--
   Arnav Saini — GitHub Profile README
+  Avatar: avatar.gif (your uploaded image)
   Hero banner: dark.svg / light.svg (auto-switches with GitHub's theme via <picture>)
 -->
 
 <div align="center">
+
+<img src="https://raw.githubusercontent.com/arnavsaini55/arnavsaini55/main/avatar.gif" width="150">
+
+<h2>Hi, I'm Arnav Saini 👋</h2>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/arnavsaini55/arnavsaini55/main/dark.svg">
