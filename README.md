@@ -22,7 +22,7 @@
 
 ### 🚀 About Me
 
-- 📱 Founding Mobile Engineer at **SoTrue Technologies**, building a social-OTT app (short-form video + real-time chat) live on Play Store & App Store with **500+ downloads** and **450–470 daily active users**
+- 📱 Founding Mobile Engineer at  a social-OTT app (short-form video + real-time chat) live on Play Store & App Store with **500+ downloads** and **450–470 daily active users**
 - ⚡ Deep experience with **WebSocket-based real-time systems**, chat infra for 15–20+ concurrent users, and reconnection/sync logic across Android & iOS
 - 🛠️ Re-engineered a media player using **React Native Turbo Modules**, eliminating recurring production crashes and legacy native bridge dependencies
 - 🎯 Focused on gesture-driven UX, native performance optimization, and shipping full mobile release cycles end-to-end
